@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+# Unit testing
+coverage/
+jest_0/
+
+# Builds
+build/
+dist/
